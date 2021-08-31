@@ -13,3 +13,5 @@
 - git add -A
 - git branch
 - git reset --hard copiar commit 
+- git diff
+- git diff --name-only
