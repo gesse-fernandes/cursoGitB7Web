@@ -21,3 +21,4 @@
 - git checkout name da branch
 - git push origin :teste
 - git branch -D teste
+- git pull origin master
