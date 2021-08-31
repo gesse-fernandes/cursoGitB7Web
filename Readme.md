@@ -12,3 +12,4 @@
 - git commit -m "algo"
 - git add -A
 - git branch
+- git reset --hard copiar commit 
