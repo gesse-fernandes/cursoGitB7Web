@@ -18,3 +18,4 @@
 - git commit -am "test"
 - git push -u origin nome da branch
 - gitignore
+- git checkout name da branch
