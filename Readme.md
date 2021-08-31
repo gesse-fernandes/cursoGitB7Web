@@ -6,3 +6,9 @@
 - git config user.name => nome cadastrado
 - git config user.email => email cadastrado
 - git config --list => mostrar tudo que ta salvo no git
+
+- git log 
+- git status
+- git commit -m "algo"
+- git add -A
+- git branch
