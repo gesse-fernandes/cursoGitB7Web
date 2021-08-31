@@ -16,3 +16,4 @@
 - git diff
 - git diff --name-only
 - git commit -am "test"
+- git push -u origin nome da branch
