@@ -15,3 +15,4 @@
 - git reset --hard copiar commit 
 - git diff
 - git diff --name-only
+- git commit -am "test"
